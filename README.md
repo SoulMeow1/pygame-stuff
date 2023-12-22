@@ -13,7 +13,7 @@ Creating a Menu is as easy as appending options you want -> align them for neatn
 
 This whole exercise feels like im creating a game engine instead of creating a game so maybe next time I should've just used a game engine from the get go.
  
-##Problems encountered: 
+## Problems encountered: 
 pygame is needed on other computers to run pygame games. Kinda dumb tbh. You want to make the end users' life as easy as possible and this is not helping
 
 Spent too much time making the "game engine". Maybe I'll pick this project up again, maybe not in the future
